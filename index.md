@@ -2,10 +2,10 @@
 title: Welcome
 ---
 
-Main documentation and “play-book” for the London Luslab.
+This wiki is to be used as a reference for tips/tricks related to running bioinformatics pipelines in the Streit lab.
 
-🐙 [luslab github](https://github.com/luslab)
+🐙 [Streit lab github](https://github.com/Streit-lab)
 
-🐙 [wiki repo](https://github.com/luslab/luslab.github.io)
+🐙 [wiki repo](https://github.com/Streit-lab/Streit-lab.github.io)
 
 ![Lab photo](images/lab-photo-edit.png)
