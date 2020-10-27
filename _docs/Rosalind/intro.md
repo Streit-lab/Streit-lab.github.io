@@ -1,6 +1,6 @@
 ---
 title: Intro
-category: CAMP
+category: Rosalind
 order: 1
 ---
 
