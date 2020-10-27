@@ -4,7 +4,7 @@ category: Nextflow
 order: 1
 ---
 
-**Nextflow** is a language for pipeline development that became a standard in our lab.
+**Nextflow** is a language for pipeline development that is quickly becoming the gold standard for bioinformatics.
 
 We use Nextflow for:
 
@@ -17,7 +17,6 @@ If there is no pipeline for your data in the nf-core collection, or you are sett
 
 **Please make sure you use the DSL2 syntax when conding in Nextflow!**
 
-See [our wiki page on how to run Nextflow on CAMP](../../CAMP/running_nextflow).
 
 Please check out the following resources to get up and running with Nextflow: 
 

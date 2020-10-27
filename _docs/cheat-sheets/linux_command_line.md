@@ -81,6 +81,3 @@ See the full Bash manual [here](https://www.gnu.org/software/bash/manual/bash.ht
 - cut
 - paste
 - shuffle
-
-## Other commands
-- `srun --ntasks=1 --cpus-per-task=1 --partition=int --time=4:00:0 --mem=4G --pty /bin/bash` - Create interactive node on CAMP
