@@ -8,7 +8,7 @@ order: 1
 
 We use Nextflow for:
 
- - Developing pipelines to process a particular type (or types) of data (for example, various CLIP datasets).
+ - Developing pipelines to process a particular type (or types) of data.
  - Make our computational projects reproducible.
 
 If you need a pipeline to process a particular type of data, please check [our nf-core wiki page](../nf-core) first. 
