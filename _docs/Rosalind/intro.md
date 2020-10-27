@@ -45,7 +45,7 @@ You will have been given a personal scratch directory, which is where you should
 
 You should also have access to streit lab scratch storage `/scratch/groups/streit`. This is where we store lab raw sequencing data, genomes, as well as downloaded nextflow pipelines and singularity images. We use this lab scratch in order to reduce the amount of file duplication across our accounts.
 
-It is recommmended to create symbolic links from your personal scratch `ln -s /scratch/users/<username> /users/<username>/scratch` and streit lab scratch `ln -s /scratch/groups/streit/ /users/<username>/streit_scratch` to your home directory. This makes is far easier to move between the different directories on Rosalind (`cd ~/scratch` for personal scratch, `cd ~/streit_scratch` for streit scratch, and `cd ~/` for home).
+It is recommmended to create symbolic links from your personal scratch `ln -s /scratch/users/<username> /users/<username>/scratch` and streit lab scratch `ln -s /scratch/groups/streit/ /users/<username>/streit_scratch` to your home directory. This makes it far easier to move between the different directories on Rosalind (`cd ~/scratch` for personal scratch, `cd ~/streit_scratch` for streit scratch, and `cd ~/` for home).
 
 After doing this I would recommend also creating the symbolic links for placing nextflow and singularity files in the joint lab scratch - this will save major headaches later on!
 
@@ -67,7 +67,7 @@ The structure of the shared folder is:
 ├── singularity_cache
 |   └── here we store all lab singularity images
 ├── raw_sequencing_data
-|   └── here we store all lab singularity images
+|   └── here we store all raw sequencing data
 ├── ref
     └── genomes
         └── chick
