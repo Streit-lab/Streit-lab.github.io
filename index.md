@@ -8,4 +8,4 @@ This wiki is to be used as a reference for tips/tricks related to running bioinf
 
 🐙 [wiki repo](https://github.com/Streit-lab/Streit-lab.github.io)
 
-![Lab photo](images/lab-photo-edit.png)
+![Lab photo](https://github.com/Streit-lab/Streit-lab.github.io/blob/master/images/lab-photo-edit.png)
