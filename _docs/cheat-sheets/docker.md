@@ -1,7 +1,7 @@
 ---
 title: Docker
 category: Cheat Sheets
-order: 5
+order: 4
 ---
 
 ## Resources
