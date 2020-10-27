@@ -1,18 +1,18 @@
 # ----
 # Site
 
-title: London Luscombe lab Wiki
-url: "https://luslab.github.io"
+title: Streit lab wiki
+url: "https://Streit-lab.github.io"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Main documentation and “play-book” for the London Luslab.
+description: Main documentation and “play-book” for the Streit Lab.
 author:
-  name:
-  email:
+  name: Alex Thiery
+  email: alexandre.thiery@kcl.ac.uk
   twitter: # twitter username without the @ symbol
 
 
