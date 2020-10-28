@@ -78,7 +78,7 @@ The structure of the shared folder is:
 ### Doing analysis and running jobs
 
 The "quickstart" version is that Rosalind is divided into "partitions" with certain nodes dedicated for certain things.
-KCL members have access to the shared "cpu" and "gpu" partitions.
+KCL members have access to the grc "cpu" and "gpu" partitions.
 Mostly you will submit batch jobs to the "cpu" partition.
 Never run anything substantial (ie. more than simple head, cd, mkdir .etc commands) on the login node (this is where you are when you first ssh into the cluster).
 
